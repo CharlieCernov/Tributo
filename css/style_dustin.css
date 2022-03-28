@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+body{
+    background-color: #2a0a19;;
+    background-image: url(../images/fundo2.png);
+    background-size:cover;
+}
+
+.perfil{
+    width:500px;
+    height:245px;
+    padding: 30px;
+    padding-bottom: 500px;
+    display: flex;
+    background-color: #110a07;
+    margin-left: 650px;
+    margin-top: 50px;
+    border-radius: 25px 25px 25px 25px;
+    
+}
+
+.banner img{
+    border-radius: 25px 25px 25px 25px;
+    width:500px;
+    height:350px;
+}
+
+p{
+    font-size: 27px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+
+}

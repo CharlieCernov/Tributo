@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body{
+    margin:0px;
+    padding:0px;
+    height:1250px;
+    background-color: #2a0a19;
+    
+    
+}
+
+header{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+
+}
+
+.logo{ 
+    justify-content:center;
+    display: flex;
+    height: 350px;
+}
+    
+    
+
+.h2{
+    background-color: black;
+    
+}
+    
+
+.container{
+    justify-content: space-between;
+    display:flex;
+    
+}
+
+.biografia{
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
+    color:white;
+    background-color: #161a1d;
+    padding:10px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    height:300px;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 25px 25px 25px 25px;
+    text-align:center;
+}
+
+.pers1 img{
+    display:flex;
+    position:absolute;
+    left: 240px;
+    top:370px;
+    border-radius: 50%;
+
+    
+}
+
+.pers2 img{
+    display:flex;
+    position: absolute;
+    left:1325px;
+    top:370px;
+    border-radius: 50%;
+}
+
+.pers3 img{
+    display:flex;
+    position: absolute;
+    top: 760px;
+    left: 240px;
+    border-radius: 50%;
+}
+
+.pers4 img{
+    display: flex;
+    position: absolute;
+    left:1325px;
+    top:760px;
+    border-radius: 50%;
+}
+
+.pers5 img{
+    display: flex;
+    position: absolute;
+    left: 645px;
+    top:809px;
+    border-radius: 49%;
+}
+
+.pers6 img{
+    display: flex;
+    position: absolute;
+    left:980px;
+    top:809px;
+    border-radius: 49%;
+}
+
+.description1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 370px;
+    margin-top: 0px;
+    color:white;
+}
+
+.description2{
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:1445px;
+    margin-top:-45px;
+    color:white;
+}
+
+.description3{
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 350px;
+    margin-left:360px;
+    color:white;
+}
+
+.description4{
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:1468px;
+    margin-top:-47px;
+    color:white;
+}
+
+.description5{
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:740px;
+    margin-top: -45px;
+    color:white;
+
+}
+
+.description6{
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -46px;
+    margin-left: 1100px;
+    color:white;
+}
+
+a:hover{
+    color:black;
+    text-decoration: none;
+}
